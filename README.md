@@ -1,1 +1,6 @@
-# parking_lot
+# Parking lot
+Car parking application
+
+# Required
+ Java
+ 
